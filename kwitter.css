@@ -28,7 +28,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 	width: 80px;margin-top: 30px;border-radius: 40px;
 }
 
-#login_button
+#login_button, #addRoom
 {
 	width: 80%;border-radius: 15px;
 }
